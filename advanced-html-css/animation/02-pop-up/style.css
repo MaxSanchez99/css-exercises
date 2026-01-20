@@ -40,7 +40,7 @@ button {
   opacity: 0%;
   text-align: center;
 
-  transition: transform 0.3s ease-in, opacity 0.4s ;
+  transition: transform 0.3s ease-in, opacity 0.4s;
   transform: translate(-50%, -100%);
 }
 
